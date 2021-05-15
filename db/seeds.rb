@@ -14,6 +14,4 @@ blaire = User.create(username: "blaire", password: "blaire")
 drew = User.create(username: "drew", password: "drew")
 nichole = User.create(username: "nichole", password: "nichole")
 zoe = User.create(username: "zoe", password: "zoe")
-ryan = User.create(username: "ryan", passowrd: "ryan")
-
-Item.create()
+ryan = User.create(username: "ryan", password: "ryan")
